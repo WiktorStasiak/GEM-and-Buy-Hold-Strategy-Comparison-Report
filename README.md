@@ -35,7 +35,7 @@ Do badania wybrano następujące ETF-y (dane od 2013-01-02 do 2025-02-02):
 ## 📈 Wyniki symulacji
 
 ### Porównanie wartości portfeli
-![Porównanie GEM vs Buy & Hold](results/gem_vs_bh.png)
+![Porównanie GEM vs Buy & Hold](Raport_GEM.pdf)
 
 Na wykresie widoczna jest wartość portfela GEM w porównaniu do portfeli typu *Buy & Hold*.  
 Dodano również linię pokazującą sumę wpłaconego kapitału (100 USD miesięcznie).
